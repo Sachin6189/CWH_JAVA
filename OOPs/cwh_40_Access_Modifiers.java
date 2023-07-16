@@ -7,7 +7,7 @@ class MyEmployee{
         return name;
     }
     public void setName(String n){
-        name = n;
+        name = n; 
     }
 
     public int getId(){
@@ -16,6 +16,7 @@ class MyEmployee{
     public void setId(int i){
         id = i;
 }
+
 
 }
 
